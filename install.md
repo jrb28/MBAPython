@@ -14,5 +14,5 @@ Follow these instructions to install the Jupyter files in the correct file folde
 - Delete the last portion of the default save lcoation and save the zip contents to _C:\Users\your_username_ by left-clicking on "Extract".
 ![pic1](./images/downloadZipFile5.jpg)
 ![pic1](./images/downloadZipFile6.jpg)
-- The folder with teh session contents, _MBAPython-master_, will be in your user folder when you finish.
+- The folder with the session contents, _MBAPython-master_, will be in your user folder when you finish.
 ![pic1](./images/downloadZipFile7.jpg)
